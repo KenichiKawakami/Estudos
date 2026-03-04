@@ -1,0 +1,17 @@
+h1, h2, h3{
+    color: rgb(68, 66, 66);
+    text-align: center;
+}
+p {
+    color: tomato
+    font-weight: bold;
+}
+.hverde {
+    color: rgb(77, 206, 26);
+}
+#h1verde {
+    font-size: large;
+}
+.alinhatexto {
+    text-align: right
+}
