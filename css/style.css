@@ -15,3 +15,12 @@ p {
 .alinhatexto {
     text-align: right
 }
+
+div {
+    background-color: rgb(255, 255, 255);
+    border: 5px solid gray;
+    padding: 10px;
+    margin-top: 10px;
+    width: 300px;
+    height: 200px;
+}
