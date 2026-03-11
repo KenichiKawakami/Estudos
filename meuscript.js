@@ -15,8 +15,8 @@
        function funcaoAdicionaTitulo() {
         if (objt1.innerText === "Este é um título") {
                 return objt1.innerHTML = "OI";
-            else{
+        }else{
                 return objt1.innerHTML = "<h1>Este é um título</h1>";
             }
         }   
-       }
+       
